@@ -1,4 +1,6 @@
-# [Phenomic](https://github.com/MoOx/phenomic) phenomic-theme-base
+# RTSS
+
+## workflow
 
 ## Install dependencies
 
@@ -16,4 +18,10 @@ npm start
 
 ```sh
 npm run build
+```
+
+## Deploy to GitHub Pages
+
+```sh
+npm run deploy
 ```
