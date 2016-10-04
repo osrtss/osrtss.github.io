@@ -2,25 +2,25 @@
 
 ## workflow
 
-## Install dependencies
+### Install dependencies
 
 ```sh
 npm install
 ```
 
-## Run development server
+### Run development server
 
 ```sh
 npm start
 ```
 
-## Build for production
+### Build for production
 
 ```sh
 npm run build
 ```
 
-## Deploy to GitHub Pages
+### Deploy to GitHub Pages
 
 ```sh
 npm run deploy
